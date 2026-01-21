@@ -1,0 +1,11 @@
+{
+    "models": [
+        "boqi",
+        "fulilian",
+        "luoqixi"
+    ],
+    "messages": [
+        "Welcome to my blog!",
+        "Click the character to switch models."
+    ]
+}
